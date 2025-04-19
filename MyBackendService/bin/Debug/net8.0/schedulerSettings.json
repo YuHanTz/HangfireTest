@@ -1,0 +1,6 @@
+{
+    "Jobs":[{
+        "Name": "SampleJob",
+        "CronExcession": "*/5 * * * *"
+    }]
+}
