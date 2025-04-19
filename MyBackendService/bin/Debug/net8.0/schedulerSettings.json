@@ -1,6 +1,6 @@
 {
     "Jobs":[{
         "Name": "SampleJob",
-        "CronExcession": "*/5 * * * *"
+        "CronExpression": "*/5 * * * *"
     }]
 }
